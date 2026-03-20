@@ -183,7 +183,7 @@ Recall    :  ~84.6 %
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sonar-classification.git
+git clone https://github.com/saifullah857/50-Machine-Learning-Projects.git
 cd sonar-classification
 ```
 
