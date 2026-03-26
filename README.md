@@ -45,7 +45,7 @@
 | #  | Project Name                  | Algorithm / Category | Status        |
 |----|-------------------------------|----------------------|---------------|
 | 01 | SONAR Rock vs Mine Prediction | Classification       | ✅ Completed  |
-| 02 | House Price Prediction        | Regression           | ✅ Completed              |
+| 02 | House Price Prediction        | Regression           | ✅ Completed  |
 | 03 | Pending                       | Pending              | ⏳ Pending    |
 | 04 | Pending                       | Pending              | ⏳ Pending    |
 | 05 | Pending                       | Pending              | ⏳ Pending    |
